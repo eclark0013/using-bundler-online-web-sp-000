@@ -1,1 +1,1 @@
-require 'hashie'
+gem 'hashie'
