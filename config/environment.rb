@@ -1,1 +1,1 @@
-require "hashie"
+require 'hashie'
